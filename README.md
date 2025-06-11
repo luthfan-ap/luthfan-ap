@@ -1,12 +1,7 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
-</div>
-
-<img src="https://github.com/luthfan-ap/luthfan-ap/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
+<div align="center">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There+👋+I'm+Luthfan+Aryananda;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+👋+I'm+Luthfan+Aryananda;" />
 </h1>
 
 ### Information Systems undergraduate passionate about database systems. Actively exploring Data Engineering and Database Management, building efficient data solutions.
