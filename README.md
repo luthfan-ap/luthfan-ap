@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+👋+I'm+Luthfan+Aryananda;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+👋+I'm+Luthfan+!;" />
 </h1>
 
 ### Information Systems undergraduate passionate about database systems. Actively exploring Data Engineering and Database Management, building efficient data solutions.
