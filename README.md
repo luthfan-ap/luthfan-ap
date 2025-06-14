@@ -1,6 +1,7 @@
 <div align="center">
 
 <h1 align="center">
+<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Luthfan. -->
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=700&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi!+👋+I'm+Luthfan;" />
 </h1>
 
@@ -39,6 +40,7 @@ You can contact me at:
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=luthfan-ap&theme=algolia&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Luthfan's GitHub Stats" />
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=luthfan-ap&theme=algolia&count_private=true&border_radius=10&locale=en" alt="Luthfan's" />
 <!--   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=luthfan-ap&theme=algolia&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Luthfan's Most Used Languages" /> -->
+    
 </div>
 
 <hr>
