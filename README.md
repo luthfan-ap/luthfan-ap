@@ -26,7 +26,6 @@ You can contact me at:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,mysql,sqlite,java,git,github,githubactions,linux,ubuntu" />
-    <br>
   <img src="https://skillicons.dev/icons?i=aws,docker,vscode,figma,jest" />
 </p>
 
