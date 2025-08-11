@@ -1,3 +1,4 @@
+<div>
 <h1 align="center">
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Luthfan. -->
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=700&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi!+👋+I'm+Luthfan;" />
