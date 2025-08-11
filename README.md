@@ -10,11 +10,12 @@
 
 <!-- Social icons section -->
 <!-- Some icons are from https://readmecodegen.vercel.app/icons/github-readme-svg-icon-generator -->
-<p align="center">Keep in touch with me!</p>
+<p align="center">Want to know more about me?</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/luthfan-aryananda/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/linkedin.svg"/></a>
   <a href="mailto:luthfan@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://readmecodegen.vercel.app/api/social-icon?name=gmail&color=%23ffffff"/></a>
-  <a href="https://open.spotify.com/user/luthfan_ap?si=7be47e61189a4212"><img width="32px" alt="Spotify" title="Spotify" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/spotify.svg"/></a>
+  <a href="https://medium.com/@luthfan-ap"><img src="https://readmecodegen.vercel.app/api/social-icon?name=medium&size=32&color=%23ffffff" alt="medium" /></a>
+  <a href="https://www.hackerrank.com/profile/luthfan"><img src="https://readmecodegen.vercel.app/api/social-icon?name=hackerrank&size=32&color=%23ffffff" alt="hackerrank" /></a>
 </p>
 
 <br/>
