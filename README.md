@@ -13,7 +13,7 @@
 <p align="center">Contact Me!</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/luthfan-aryananda/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/linkedin.svg"/></a>
-  <a href="mailto:luthfan@gmail.com"><img width="32px" alt="Spotify" title="Spotify" src="https://readmecodegen.vercel.app/api/social-icon?name=gmail&color=%23ffffff"/></a>
+  <a href="mailto:luthfan@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://readmecodegen.vercel.app/api/social-icon?name=gmail&color=%23ffffff"/></a>
   <a href="https://open.spotify.com/user/luthfan_ap?si=7be47e61189a4212"><img width="32px" alt="Spotify" title="Spotify" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/spotify.svg"/></a>
 </p>
 
