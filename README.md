@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=700&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi!+👋+I'm+Luthfan;" />
 </h1>
 
-### 🎓Information Systems undergraduate passionate about database systems.<br>🧠Actively exploring Data Engineering and Database Management, building efficient data solutions.<br>📝Kindly check [my Medium page](https://medium.com/@luthfan-ap) where I write about data engineering and backend related articles!
+<h3>🎓Information Systems undergraduate passionate about database systems.<br>🧠Actively exploring Data Engineering and Database Management, building efficient data solutions.<br>📝Kindly check [my Medium page](https://medium.com/@luthfan-ap) where I write about data engineering and backend related articles!</h3>
 
 <br>
 
